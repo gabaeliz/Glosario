@@ -1,2 +1,2 @@
-#Glosario basico
+Glosario basico
 
