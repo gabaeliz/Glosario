@@ -1,5 +1,2 @@
-# Saco-de-palabras
-Inteligencia Artificial
+#Glosario basico
 
-***Objetivo*** <br/>
-Identificar textos de acuerdo a su área científica, física, biología o química
